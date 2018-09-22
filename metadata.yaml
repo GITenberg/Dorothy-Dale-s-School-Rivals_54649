@@ -1,0 +1,28 @@
+_repo: Dorothy-Dale-s-School-Rivals_54649
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Penrose, Margaret
+    gutenberg_agent_id: '1022'
+    url: http://www.gutenberg.org/2009/agents/1022
+    wikipedia: http://en.wikipedia.org/wiki/Margaret_Penrose
+description: ''
+gutenberg_issued: '2017-05-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54649'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social classes -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Friendship -- Juvenile fiction'
+- !lcsh 'Schools -- Juvenile fiction'
+- !lcsh 'Boarding school students -- Juvenile fiction'
+- !lcsh 'Competition -- Juvenile fiction'
+- !lcsh 'Girls -- Social life and customs -- Juvenile fiction'
+- GITenberg
+title: Dorothy Dale's School Rivals
+url: http://www.gutenberg.org/ebooks/54649
